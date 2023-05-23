@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 181d5e11d6be65f4e8c8298748ff38b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - muzzleFlashParticleSystem: {instanceID: 0}
+  - playerTarget: {fileID: 7839562904817235229, guid: c3e6fc3c197c620429b737deda8c4bf3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
